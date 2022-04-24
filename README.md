@@ -1,8 +1,8 @@
 ﻿# jumstore-mobile
-<*********************************>
+
 online shopping mall fully functional
 
-<***************************************************>
+
 # features
 Login
 Signup
@@ -21,7 +21,7 @@ Order History
 Wish List (With Redux)
 Search 
 
-<****************************>
+
 #screenshots
 
 ![launch_screen](https://user-images.githubusercontent.com/68236676/164892266-ab30fa16-4029-4ec9-8473-b4dec9c772cf.png)
